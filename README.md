@@ -6,3 +6,5 @@ MPI
 OpenMP  
 NetCDF4  
 FFTW3 
+  
+Run "netcdf_plot_k.py" to see the drift-wave growth rate
