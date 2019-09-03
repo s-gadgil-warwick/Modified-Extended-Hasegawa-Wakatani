@@ -9,7 +9,7 @@
 ** 1. Use malloc not double 2d array declarations as these use stack
 **    and array longer than 250 x 250 elements are not possible.
 **
-** Parallelisation(MPI): Sanket Gadgil 12/08/2019
+** Parallelisation(MPI) & netCDF output: Sanket Gadgil 12/08/2019
 *********************************************************************/
 #include <stdio.h>
 #include <stdlib.h>
